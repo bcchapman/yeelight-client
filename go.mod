@@ -1,3 +1,3 @@
-module chapman.com/yeelight-client
+module github.com/bcchapman/yeelight-client
 
 go 1.20
